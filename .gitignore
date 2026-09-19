@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+ENV/
+env/
+.DS_Store
+.idea/
+.vscode/
+temp_uploaded.jpg
+temp_gradcam.jpg
+dashboard_flask/inspectai.db
+dashboard_streamlit/inspectai.db
+*.mp4
